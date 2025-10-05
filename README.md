@@ -17,7 +17,7 @@ The goal of this project is to design and implement a SQL-driven inventory monit
 
 ⚙️ Smarter, data-backed inventory decisions
 
-💰 Improved profitability and customer satisfaction
+>> Improved profitability and customer satisfaction
 
 Key Features & Deliverables
 1. SQL Queries
@@ -40,7 +40,7 @@ Average Stock Level
 
 Inventory Aging
 
-🗄️ 2. Database Optimization
+2. Database Optimization
 
 Instead of designing a schema, we used a single table for all the operations as it was going smoothly.
 
@@ -48,7 +48,7 @@ Implemented indexes, joins, and window functions for performance optimization
 
 Created a clean, scalable, and well-documented SQL workflow
 
-📊 3. Analytical Insights
+3. Analytical Insights
 
 Using SQL outputs, several business insights and reports were generated:
 
@@ -60,7 +60,7 @@ Evaluation of supplier performance and reliability
 
 Forecasting demand trends based on seasonal/cyclical data
 
-🧠 Business Impact
+>> Business Impact
 
 By implementing this SQL-based analytics system, Urban Retail Co. can:
 
@@ -72,7 +72,7 @@ Improve demand forecasting and replenishment accuracy
 
 Enhance customer satisfaction and profitability
 
-🧰 Technical Stack
+>> Technical Stack
 Tool	Purpose
 SQL	Data extraction, transformation, and analytics
 MySQL / PostgreSQL	Database management
